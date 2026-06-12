@@ -86,6 +86,9 @@
       "all_frames": true
     }
   ],
+  "chrome_url_overrides": {
+    "newtab": "pages/newtab.html"
+  },
   // Uncomment when developing in Firefox.
   // "browser_specific_settings": {
   //   "gecko": {
